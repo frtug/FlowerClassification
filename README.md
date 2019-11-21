@@ -26,4 +26,5 @@ We have 3 types of species in our dataset setosa, versicolor, virginica.
 ![alt text](Iris_virginica.jpg)     ![alt text](Virginica.png) 
 
 
-Idea Inspired from "amark23"
+Gui Idea Inspired from "amark23"
+ thanks 
